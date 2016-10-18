@@ -1,0 +1,5 @@
+Zadanie:
+Analýza korelácie medzi: vekom, pohlavím, BMI, životným štýlom a srdcovým tepom.  
+1. Vyrobit BMI vzorec do reportu.(potiahnutie)
+2. SUM pre Smokes, Alcohol, Exercise, Ran pre každého jedinca do stlpca 'Životný štýl'. Cím menej bodov tím lepšie.
+3.
